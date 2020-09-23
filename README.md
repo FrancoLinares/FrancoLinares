@@ -1,6 +1,8 @@
 ### Hi, I'm Franco 👋
 
-## I'm a Web Developer, student and Argentinian!
+## I'm a Web Developer, student and argentinian!
+
+### Passionate about finance and programming
 
 #### Projects:
 
