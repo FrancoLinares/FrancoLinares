@@ -12,6 +12,16 @@
 - Daily Trading Journal
 - TradingView to Telegram
 
+---
+
+### Check out my resume
+
+I make it adaptable for any devel
+
+🏠 [RESUME]
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -45,6 +55,7 @@
 
 <!-- [website]:  -->
 
+[resume]: https://github.com/FrancoLinares/CV
 [teco]: http://tecoweb.com.ar/
 [tvtomt4]: http://tvtomt4.com/
 [instagram]: https://www.instagram.com/franco_linares/
